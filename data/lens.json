@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "model": "LEICA-Q3-43",
+      "name": "LEICA 徠卡 Q3 43",
+      "fileName": "leica_q3_43.jpg",
+      "imageUrl": "/images/leica_q3_43.jpg"
+    },
+    {
+      "id": 2,
+      "model": "ILCE-7M5",
+      "name": "SONY 索尼 ILCE-7M5 A7M5 A7V",
+      "fileName": "a7m5.jpg",
+      "imageUrl": "/images/a7m5.jpg"
+    },
+    {
+      "id": 3,
+      "model": "EOS-R5M2",
+      "name": "Canon EOS R5 Mark II BODY",
+      "fileName": "eos_r5m2.jpg",
+      "imageUrl": "/images/eos_r5m2.jpg"
+    }
+  ]
+}
